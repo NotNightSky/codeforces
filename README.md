@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 8 |
+| 5 | 8 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (1)
@@ -40,6 +40,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [GNU C11](https://github.com/NotNightSky/codeforces/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.c) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [GNU C11](https://github.com/NotNightSky/codeforces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.c) |
 
 ### implementation
 
@@ -54,6 +55,7 @@
 |---|---------|------------|----------|
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [GNU C11](https://github.com/NotNightSky/codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.c) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [GNU C11](https://github.com/NotNightSky/codeforces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.c) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [GNU C11](https://github.com/NotNightSky/codeforces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.c) |
 
 ### number theory
 
